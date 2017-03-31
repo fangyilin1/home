@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Digital Art</title>
+		<link rel="stylesheet" href="stylesheet" type="text/css">
+	</head>
+	<body>
+		<img id="top" src="images/heaven_tower_by_wlop-d72a4wk.jpg" alt="Background" width="1322" height="337">
+		<!--This is the heading of the page-->
+		<table id="table">
+			<tr>
+				<th><a id="home" href="index" target="_self">Home</a></th>
+				<th><a id="categories" href="DigitalArtCategories" target="_self">Categories</a></th>
+				<th><a id="bibliography" href="bibliography" target="_self">Bibliography</a></th>
+			</tr>
+		</table>
+		<div class="body">
+		<!--Here are the actual contents of the page-->
+		<h1>Digital Art </h1>
+		<h2>What Is Digital Art?</h2>
+		<q cite="https://en.wikipedia.org/wiki/Digital_art">Digital art is an artistic work or practice that uses digital technology as an essential part of the creative or presentation process. Since the 1970s, various names have been used to describe the process including computer art and multimedia art, and digital art is itself placed under the larger umbrella term new media art.
+		</q>
+		<p>Digital art can be presdnted in many forms such as:</p>
+		<ul>
+			<li>Illustration and Fine Art</li>
+			<li>Sculpture</li>
+			<li>Other applications of digital technology:
+				<ul>
+					<li>Architecture design</li>
+					<li>Digital camera work and special effects</li>
+				</ul>
+			</li>
+		</ul>
+		<br/>
+		<h2>History of Digital Art</h2>
+		<p>Digital art revolutionized more traditional art forms like illustration, painting, sculpture and cinema as mentioned, and evolved into digital craft design and architecture.</p>
+		<p>The history can trace back to the 1960s when artists began to experimenting with computers.</p>
+		<img src="images/1960.jpg" alt="Digital artwork in 1960s" width="200" height="150">
+		<br/>
+		<br/>
+		<p>During 1970s-1980s, artists increasingly experimented with computer imaging techniques, e.g. manipulating video, audio and graphics. With the work by these pioneers in digital arts, artists were able to create digital illustration, fine art, sculpture, editing photography.</p>
+		<img src="images/1983.jpg" alt="Digital artwork in 1980s" width="400" height="300">
+		<br/>
+		<a href="http://lucasmuseum.org/works/detail/asset_id/1292">The Road to Point Reyes</a>
+		<i>By: Rob Cook, Loren Carpenter, Tom Porter, Bill Reeves, David Salesin, and Alvy Ray Smith</i>
+		<br/>
+		<br/>
+		<p>Digital artwork in the 2010s</p>
+		<img src="images/toy_story_3.jpg" alt="Digital artwork in 2010s" width="333" height="400">
+		<br/>
+		<br/>
+		<a href="#top">Back to the top</a>
+		</div>
+	</body>
+</html>
+ 

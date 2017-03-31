@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Digital Art-Categories</title>
+		<link rel="stylesheet" href="stylesheet" type="text/css">
+	</head>
+	<body>
+		<img id="top" src="images/50833661_p0.jpg" alt="top" width="1330" height="289">
+		<table id="table">
+			<tr>
+				<th><a id="home" href="index" target="_self">Home</a></th>
+				<th><a id="categories" href="DigitalArtCategories" target="_self">Categories</a></th>
+	            <th><a id="bibliography" href="bibliography" target="_self">Bibliography</a></th>
+			</tr>
+		</table>
+		<br/>
+		<table id="list">
+			<tr>
+				<th>Contents</th>
+			</tr>
+			<tr>
+				<td><a id="fineart" href="#illustration">Digital Illustration and Fine Art</a></td>
+			</tr>
+			<tr>
+				<td><a id="sculpt" href="#sculpture">Digital Sculpture</a></td>
+			</tr>
+			<tr>
+				<td><a id="arch" href="#architecture">Digital Architecture Design</a></td>
+			</tr>
+			<tr>
+				<td><a id="cam" href="#camera">Digital Camera Work</a></td>
+			</tr>
+		</table>
+		<div class="body">
+		<p>Digital art has different categories. These different types of digital art are applied in many important fields that we often see and treat as entertainments.</p> 
+		<h1 id="illustration">Digital Illustration and Fine Art</h1>
+		<p>In present days, technology enables the creation of digital drawings. With only a corner desk, artists can produce works that they need a studio for. This would make creating artwork more convenient, and encourage the presence of more imaginative and whimsical forms of art.</p>
+		<p>Currently, digital illustrations and fine arts are mainly produced by using drawing software, and drawing devices that are connected to a computer, tablet or other such electronics. These drawing devices can include any drawing tablets and the corresponding sensitive pen, which these 2 devices are used most often.</p>
+		<p>Technologies give artists the capability of mimicking different medium, such as charcoal, oil and watercolour, and to work on different layers of artwork. With such functions, artists have more freedom when creating a work, and they can encompass any style of art.</p>   
+		<h1 id="sculpture">Digital Sculpture</h1>
+		<p>Traditional sculpture creates three-dimensional work by hand and specialized tools using different materials. In digital sculpture, the materials and techniques are the same as traditional sculpture, but digital sculptors can use computers to control and manage the specialized machine that is doing the sculpting for them.</p>
+		<p>Artists began to experiment in the late 1980s with computer-controlled machining. And in the early 2000s, 3D printing was invented.</p>
+		<p>Every digital sculpture begins with creating a virtual 3D model in computers. Instead of carving, weaving, or casting by hand, special software and the corresponding machines can process this by additive and subtractive fabrication, which are adding and removing layers. Traditional tools are still employed, such as drills, chisels are still in use, but more advanced technology for example laser is commonly used.</p>
+		<img src="images/perfect_forms_.jpg" alt="Perfect forms" width="300" height="232">
+		<h1 id="architecture">Digital Architecture Design</h1>
+		<p>Digital art is not only limited in the form of drawings. Architects use a variety of programs to draw, model, and even program the buildings by applying digital art.</p>
+		<p>Digital technology enables architects to test daylight, model building and the environment, and try design in different environments. This helps architects to produce designs more fluently and efficiently, and also encourages developing undulating and freeform architectures.</p>
+		<img src="images/architecture.jpg" alt="Architecture" width="300" height="200">
+		<h1 id="camera">Digital Camera Work</h1>
+		<p>Digital camera work includes video and photo editing, visual effects, music and many other effects. These technologies are revolutionary to film-making; through the use of these technologies, effects are more realistic, editing is simpler to track, etc.</p>
+		<p>By the 1970s, visual effects in film had come a long way, but filmmakers wanted their film to be more realistic, but the technology is not advanced enough. In 1988, “The Abyss” is the first film that used Photoshop, which resulted the breakthrough in technology. Later, this developed and expanded to the CG (computer graphics), which is problem-solving and favouring. Now days, CG are used more and more, and film that involve fantasies or unrealistic stories ae looking more vivid than ever.</p>
+		<img src="images/cg.jpg" alt="Digital Camera Work" width="282" height="162">
+		<br/>
+		<br/>
+		<a href="#top">Back to the top</a>
+		</div>
+	</body>
+</html>

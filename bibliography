@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Bibliography</title>
+		<link rel="stylesheet" href="stylesheet" type="text/css">
+	</head>
+	<body>
+		<img id="top" src="images/home_p1.jpg" alt="top" width="1329" height="358">
+		<table id="table">
+			<tr>
+				<th><a id="home" href="index" target="_self">Home</a></th>
+				<th><a id="categories" href="DigitalArtCategories" target="_self">Categories</a></th>
+				<th><a id="bibliography" href="bibliography" target="_self">Bibliography</a></th>
+			</tr>
+		</table>
+		<div class="body">
+		<h1>Bibliography</h1>
+		<h2>Contents</h2>
+		<p>Wikipedia Organization. Digital Art. (n.d.). Retrieved from https://en.wikipedia.org/wiki/Digital_art</p>
+		<p>Knoll, J. (n.d.). What is Digital Art? Retrieved from http://lucasmuseum.org/collection/digital-art</p>
+		<p>The History of Digital Art 1960-69. (n.d.). Retrieved from http://www.internet-history.info/media-library/mediaitem/2214-the-history-of-digital-art-1960-69.html<p>
+		<p>Carter, A. (n.d.). Digital Illustration. Retrieved from http://lucasmuseum.org/collection/category/digital-illustration</p>
+		<p>Lucas Museum of Narrative Art. Digital Fine Art. (n.d.). Retrieved from http://lucasmuseum.org/collection/category/digital-fine-art</p>
+		<p>Labaco, R. T. (n.d.). Digital Sculpture. Retrieved from http://lucasmuseum.org/collection/category/digital-sculpture</p>
+		<p>Betsky, A. (n.d.). Digital Architecture. Retrieved from http://lucasmuseum.org/collection/category/digital-architecture</p>
+		<p>Lucas Museum of Narrative Art. Digital Camera. (n.d.). Retrieved from http://lucasmuseum.org/collection/category/digital-cinema</p> 
+		<h2>Images</h2>
+		<p>Knoll, J. (n.d.). What is Digital Art? Retrieved from http://lucasmuseum.org/collection/digital-art</p>
+		<p>The History of Digital Art 1960-69. (n.d.). Retrieved from http://www.internet-history.info/media-library/mediaitem/2214-the-history-of-digital-art-1960-69.html</p>
+		<p>Strastrick, S. (2013, November 19). Barry X Ball Makes a 3D-Printed, Digitally Altered, Gold-Plated Sculpture. Retrieved from http://www.artnews.com/2013/11/19/barry-ball-makes-a-3d-printed-sculpture/</p>
+		<p>Baan, I. (2013, November 14). Heydar Aliyev Center / Zaha Hadid Architects . Retrieved from http://www.archdaily.com/448774/heydar-aliyev-center-zaha-hadid-architects</p>
+		<p>Kavanagh, C. (2014, October 3). The Lord of the Rings: The Return of the King (2003). Retrieved from https://sites.psu.edu/cmk5684/2014/10/03/the-lord-of-the-rings-the-return-of-the-king-2003/</p>
+		<p>Heaven Tower. (n.d.). Retrieved from http://wlop.deviantart.com/art/Heaven-Tower-427095380</p>
+		<p>Lookout. (n.d.). Retrieved from https://twitter.com/k_kanehira/status/526755354718134273</p>
+		<p>CUPITOR. (n.d.). Retrieved from http://www.pixiv.net/member_illust.php?mode=medium&illust_id=54966231</p>
+		</div>
+	</body>
+</html>
+
+
